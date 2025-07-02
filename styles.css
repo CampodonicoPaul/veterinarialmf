@@ -71,6 +71,7 @@ main p {
 }
 
 footer {
+  text-align: center;
   font-size: 0.9em;
   color: #777;
   margin-top: auto;
